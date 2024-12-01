@@ -1,0 +1,32 @@
+{
+    "cSpell.language": "en,ru",  // Добавьте поддержку русского языка
+    "cSpell.dictionaries": [
+      "en",
+      "ru"
+    ],
+    "cSpell.dictionaryDefinitions": [
+      {
+        "name": "ru",
+        "path": "https://raw.githubusercontent.com/streetsidesoftware/cspell-dicts/main/packages/ru/ru.txt"
+      }
+    ],
+    "cSpell.words": [
+        "высококачественных",
+        "далее",
+        "данные",
+        "Добро",
+        "занимается",
+        "кабинет",
+        "компании",
+        "компания",
+        "контактные",
+        "Контакты",
+        "Наша",
+        "нашей",
+        "Наши",
+        "пожаловать",
+        "предоставлением",
+        "телефон",
+        "услуг"
+    ]
+  }

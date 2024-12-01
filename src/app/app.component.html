@@ -1,0 +1,25 @@
+
+
+<app-header>
+
+</app-header> 
+<app-menu></app-menu>     
+<main>
+  <main>
+    <div *ngIf="section === 'profile'">
+      <h2>Личный кабинет</h2>
+      <p>Добро пожаловать в ваш личный кабинет!</p>
+    </div>
+
+    <div *ngIf="section === 'contact'">
+      <h2>Контакты</h2>
+      <p>Наши контактные данные: телефон, email и так далее.</p>
+    </div>
+
+    <div *ngIf="section === 'about'">
+      <h2>О нашей компании</h2>
+      <p>Наша компания занимается предоставлением высококачественных услуг...</p>
+    </div>
+</main>
+</main>
+<app-footer></app-footer> 
